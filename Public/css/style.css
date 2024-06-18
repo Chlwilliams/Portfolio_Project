@@ -3,3 +3,28 @@ body{
     background-color: rgb(60, 77, 33);
 }
 
+.carousel-item img {
+    width: 100%;
+    height: max-content;
+    object-fit: cover
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    transform: translate (-50%, -50%);
+    text-align: center;
+    color:  white;
+}
+
+
+p1{
+    font-size: larger;
+    font-style: italic;
+}
+
+h1{
+    font-size: 7vh;
+}
+
