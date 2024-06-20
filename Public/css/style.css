@@ -92,5 +92,14 @@ section{
     padding-right: 150px;
     width: 550px;
     height: auto;
+}
 
+/* projects section */
+.content-container {
+    margin-top: 200px; 
+    padding-left: 20px; 
+}
+
+.content-container ul {
+    margin-top: 20px; 
 }
