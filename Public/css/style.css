@@ -36,7 +36,7 @@ h{
 
 section{
     position: absolute;
-    background-color: rgb(67, 83, 56);
+    background-image: url(../../view/pictures/olivetest.jpg);
     border-color: black;
     left: 900px;
     width: 400px;
@@ -48,12 +48,7 @@ section{
     bottom: 40%;
 }
 
-.cat{
-    width: 400px;
-    height: auto;
-    display: block;
-    margin: 8px auto;
-}
+
 
 /* Contacts Section */
 .contactform{
@@ -103,3 +98,11 @@ section{
 .content-container ul {
     margin-top: 20px; 
 }
+
+.video-control{
+    width: 450px;
+    height: auto;
+    margin-top: 300px;
+    margin-left: 430px;
+}
+
